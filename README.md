@@ -1,0 +1,2 @@
+# mlops_samples
+This repo is used to automate development workflows — including machine provisioning, model training and evaluation, comparing ML experiments across project history, and monitoring changing datasets.
